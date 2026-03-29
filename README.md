@@ -1,4 +1,4 @@
-# NLP Chatbot Project
+# AI-Powered NLP Chatbot using Machine Learning
 
 ## About the Project
 
